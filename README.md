@@ -1,6 +1,6 @@
 # Hello, I'm Only1337 👋
 ##### Software & Web Developer
-https://bio.illegalsolutions.xyz
+[bio.illegalsolutions.xyz](https://bio.illegalsolutions.xyz)
 
 I'm a software and web developer with a passion for coding. Here are a few things about me:
 
