@@ -5,7 +5,7 @@
 I'm a software and web developer with a passion for coding. Here are a few things about me:
 
 - 💻 My IDE preference is Visual Studio Code.
-- 🌐 Browser of choice: Vivaldi.
+- 🌐 Browser of choice: Zen Browser.
 
 ## Skills
 
